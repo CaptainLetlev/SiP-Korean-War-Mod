@@ -1,0 +1,4 @@
+--index-url https://gitlab.hob-co.uk/api/v4/projects/119/packages/pypi/simple
+mdl-tools[extra]
+elevate
+GitPython

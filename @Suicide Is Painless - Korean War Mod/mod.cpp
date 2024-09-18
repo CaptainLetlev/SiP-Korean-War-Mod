@@ -1,0 +1,12 @@
+name = "Suicide is Painless - Korean War Mod";
+tooltipOwned="Letlev";
+picture = "\SiP\Core\SiPlogo_ca.paa";
+logoSmall = "\SiP\Core\SiPlogo_ca.paa";
+logo = "\SiP\Core\SiPlogo_ca.paa";
+logoOver = "\SiP\Core\SiPlogo_ca.paa";
+hideName = 0;
+hidePicture = 0;
+actionName = "";
+action = "";
+description = "SiP - Korean War Mod";
+overview = "Suicide is Painless - Korean War Mod";
